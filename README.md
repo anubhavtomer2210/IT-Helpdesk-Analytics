@@ -34,9 +34,9 @@ raw helpdesk data into actionable business insights.
 
 ## 📊 Dashboard Preview
 <img width="981" height="557" alt="dashboard_agents" src="https://github.com/user-attachments/assets/44a79148-3cc9-478b-82d1-d20d742a7311" />
-
+.
 <img width="981" height="549" alt="dashboard_trends" src="https://github.com/user-attachments/assets/66ee8deb-e10e-41d5-b8b8-48ef6fc8485e" />
-
+.
 <img width="983" height="555" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e45e350f-ff69-4f2a-8357-71140b3fed5b" />
 
 
