@@ -33,7 +33,15 @@ raw helpdesk data into actionable business insights.
 ---
 
 ## 📊 Dashboard Preview
-[IT_Dashboard.pdf](https://github.com/user-attachments/files/27564713/IT_Dashboard.pdf)
+
+Executive Overview dashboard
+<img width="2075" height="1200" alt="IT_Dashboard_page-0001" src="https://github.com/user-attachments/assets/7ad0572c-4c71-48ea-b44d-259c6f68cbab" />
+Agent Performance dashboard
+<img width="2075" height="1200" alt="IT_Dashboard_page-0002" src="https://github.com/user-attachments/assets/53522cf5-bbb7-49a5-a575-15fbe7934f81" />
+
+Trend Analysis dashboard
+
+<img width="2075" height="1200" alt="IT_Dashboard_page-0003" src="https://github.com/user-attachments/assets/5d8ed723-4d72-4e49-811b-8409e2db3874" />
 
 
 
