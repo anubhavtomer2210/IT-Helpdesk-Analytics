@@ -33,26 +33,24 @@ raw helpdesk data into actionable business insights.
 ---
 
 ## 📊 Dashboard Preview
-Agent Performance Dashboard
-<img width="981" height="557" alt="dashboard_agents" src="https://github.com/user-attachments/assets/44a79148-3cc9-478b-82d1-d20d742a7311" />
-.
-Trend Analysis Dashboard
-<img width="981" height="549" alt="dashboard_trends" src="https://github.com/user-attachments/assets/66ee8deb-e10e-41d5-b8b8-48ef6fc8485e" />
-.
-Executive Overview Dashboard
-<img width="983" height="555" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e45e350f-ff69-4f2a-8357-71140b3fed5b" />
+[IT_Dashboard.pdf](https://github.com/user-attachments/files/27564713/IT_Dashboard.pdf)
+
 
 
 ## 🔍 Key Insights Discovered
 
 
-- 📌 **Overall SLA breach rate: 0.25% approx** — Software category had
-  the highest breach rate at 0.3%
-- 📌 **Agent Priya singh resolved tickets 3.29% faster** than average
-  with lowest breach rate of 25.38%
-- 📌 **Critical tickets in Legal department** had the highest
-  breach rate at 1% — a major risk area
-- 📌 **Email issues** take longest to resolve at avg 32.45 hours
+📌 The organization recorded an overall SLA breach rate of approximately 20%, meaning nearly 1 out of every 5 tickets failed to meet the expected resolution timeline.
+
+📌Critical-priority tickets in the Legal department showed an SLA breach rate of nearly 48%, the highest among all department-priority combinations.
+
+📌Email-related tickets had the highest average resolution time at 32.45 hours, indicating workflow bottlenecks or dependency delays.
+
+📌Printer and Network-related incidents recorded the highest SLA breach rates at approximately 20.7%, slightly above other categories.
+
+📌Anjali Mehta maintained the lowest SLA breach rate at 18.63%, indicating strong SLA compliance performance.
+
+📌Categories with higher average resolution times also tended to exhibit higher SLA breach rates, suggesting a direct relationship between ticket complexity and SLA compliance performance.
 
 ---
 
